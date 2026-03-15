@@ -1,0 +1,47 @@
+[
+  {
+    "name_en": "Dr. Kim Soo-yeon",
+    "name_ko": "김수연 박사",
+    "title_en": "Founder & Medical Director",
+    "title_ko": "설립자 및 의료 디렉터",
+    "bio_en": "Endocrinologist with 20+ years of experience specializing in diabetes management.",
+    "bio_ko": "당뇨병 관리 전문 20년 이상 경력의 내분비과 전문의.",
+    "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=3540&auto=format&fit=crop"
+  },
+  {
+    "name_en": "Park Ji-hye",
+    "name_ko": "박지혜",
+    "title_en": "Nutrition Program Lead",
+    "title_ko": "영양 프로그램 책임자",
+    "bio_en": "Registered dietitian focused on culturally appropriate diabetes nutrition education.",
+    "bio_ko": "문화적으로 적절한 당뇨병 영양 교육에 집중하는 공인 영양사.",
+    "src": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=3540&auto=format&fit=crop"
+  },
+  {
+    "name_en": "Lee Min-ho",
+    "name_ko": "이민호",
+    "title_en": "Community Outreach Coordinator",
+    "title_ko": "지역사회 봉사 코디네이터",
+    "bio_en": "Physical therapist and community health advocate with a passion for senior wellness.",
+    "bio_ko": "시니어 건강에 열정을 가진 물리 치료사이자 지역사회 건강 옹호자.",
+    "src": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=3540&auto=format&fit=crop"
+  },
+  {
+    "name_en": "Choi Yun-seo",
+    "name_ko": "최윤서",
+    "title_en": "Health Education Specialist",
+    "title_ko": "건강 교육 전문가",
+    "bio_en": "Public health educator experienced in developing Korean-language health materials.",
+    "bio_ko": "한국어 건강 자료 개발 경험이 있는 공중 보건 교육자.",
+    "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=3540&auto=format&fit=crop"
+  },
+  {
+    "name_en": "Han Jung-woo",
+    "name_ko": "한정우",
+    "title_en": "Volunteer Coordinator",
+    "title_ko": "자원봉사 코디네이터",
+    "bio_en": "Social worker dedicated to connecting volunteers with community health initiatives.",
+    "bio_ko": "자원봉사자를 지역사회 건강 이니셔티브에 연결하는 데 전념하는 사회복지사.",
+    "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=3540&auto=format&fit=crop"
+  }
+]

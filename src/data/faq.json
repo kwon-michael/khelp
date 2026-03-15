@@ -1,0 +1,92 @@
+[
+  {
+    "id": "faq-1",
+    "category_en": "About Diabetes",
+    "category_ko": "당뇨병에 대해",
+    "question_en": "What is Type 2 diabetes?",
+    "question_ko": "제2형 당뇨병이란 무엇인가요?",
+    "answer_en": "Type 2 diabetes is a chronic condition where your body doesn't use insulin properly (insulin resistance) or doesn't make enough insulin. This causes blood sugar levels to be higher than normal. It is the most common form of diabetes, usually developing in adults over 45, though it is increasingly diagnosed in younger people.",
+    "answer_ko": "제2형 당뇨병은 신체가 인슐린을 제대로 사용하지 못하거나(인슐린 저항성) 충분한 인슐린을 만들지 못하는 만성 질환입니다. 이로 인해 혈당 수치가 정상보다 높아집니다. 가장 흔한 형태의 당뇨병으로 보통 45세 이상 성인에게 발생하지만 점점 젊은 사람들에게도 진단되고 있습니다."
+  },
+  {
+    "id": "faq-2",
+    "category_en": "About Diabetes",
+    "category_ko": "당뇨병에 대해",
+    "question_en": "Are Korean Canadians at higher risk for diabetes?",
+    "question_ko": "한인 캐나다인이 당뇨병 위험이 더 높나요?",
+    "answer_en": "Research shows that people of Asian descent, including Korean Canadians, may develop Type 2 diabetes at a lower body weight compared to people of European descent. Factors such as diet, physical activity levels, and genetics contribute to this increased risk. The Canadian Diabetes Association recommends that Asian Canadians begin screening at age 35.",
+    "answer_ko": "연구에 따르면 한인 캐나다인을 포함한 아시아계 사람들은 유럽계 사람들에 비해 더 낮은 체중에서 제2형 당뇨병이 발병할 수 있습니다. 식단, 신체활동 수준, 유전적 요인이 이러한 위험 증가에 기여합니다. 캐나다 당뇨병 협회는 아시아계 캐나다인이 35세부터 검진을 시작할 것을 권장합니다."
+  },
+  {
+    "id": "faq-3",
+    "category_en": "About Diabetes",
+    "category_ko": "당뇨병에 대해",
+    "question_en": "Can diabetes be prevented?",
+    "question_ko": "당뇨병을 예방할 수 있나요?",
+    "answer_en": "While you cannot change some risk factors like age and family history, you can significantly reduce your risk through lifestyle changes: maintaining a healthy weight, exercising regularly (at least 150 minutes per week), eating a balanced diet rich in vegetables and whole grains, and limiting sugary drinks and processed foods.",
+    "answer_ko": "나이나 가족력과 같은 일부 위험 요인은 바꿀 수 없지만, 생활 습관 변화를 통해 위험을 크게 줄일 수 있습니다: 건강한 체중 유지, 규칙적인 운동(주당 150분 이상), 채소와 통곡물이 풍부한 균형 잡힌 식단, 설탕 음료와 가공 식품 제한."
+  },
+  {
+    "id": "faq-4",
+    "category_en": "About Diabetes",
+    "category_ko": "당뇨병에 대해",
+    "question_en": "What should I do if I think I have diabetes?",
+    "question_ko": "당뇨병이 있다고 생각되면 어떻게 해야 하나요?",
+    "answer_en": "If you experience symptoms like increased thirst, frequent urination, unexplained weight loss, fatigue, or blurred vision, contact your family doctor as soon as possible. A simple blood test (fasting blood glucose or A1C) can determine if you have diabetes or pre-diabetes. Early detection and treatment are key to managing the condition.",
+    "answer_ko": "갈증 증가, 잦은 소변, 설명할 수 없는 체중 감소, 피로감 또는 시력 흐림과 같은 증상이 나타나면 가능한 빨리 주치의에게 연락하세요. 간단한 혈액 검사(공복 혈당 또는 A1C)로 당뇨병 또는 전당뇨 여부를 확인할 수 있습니다. 조기 발견과 치료가 질환 관리의 핵심입니다."
+  },
+  {
+    "id": "faq-5",
+    "category_en": "About K-HELP",
+    "category_ko": "K-HELP에 대해",
+    "question_en": "What is K-HELP?",
+    "question_ko": "K-HELP가 무엇인가요?",
+    "answer_en": "K-HELP (Korean Health Education & Literacy Program) is a community-driven initiative focused on diabetes awareness and prevention for Korean Canadians. We provide health education materials in Korean, organize community workshops and events, and connect community members with healthcare resources.",
+    "answer_ko": "K-HELP(한국 건강 교육 및 문해력 프로그램)는 재캐나다 한인을 위한 당뇨병 인식 및 예방에 초점을 맞춘 지역사회 기반 이니셔티브입니다. 한국어로 건강 교육 자료를 제공하고, 커뮤니티 워크숍과 행사를 조직하며, 커뮤니티 멤버를 의료 자원에 연결합니다."
+  },
+  {
+    "id": "faq-6",
+    "category_en": "About K-HELP",
+    "category_ko": "K-HELP에 대해",
+    "question_en": "Is the information on this website medical advice?",
+    "question_ko": "이 웹사이트의 정보는 의료 조언인가요?",
+    "answer_en": "No. The information on this website is for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always consult your doctor or qualified healthcare provider with any questions about your health. Our content is reviewed by healthcare professionals but is meant to inform, not replace medical care.",
+    "answer_ko": "아니요. 이 웹사이트의 정보는 교육 목적으로만 제공되며 전문적인 의료 조언, 진단 또는 치료를 대체하지 않습니다. 건강에 관한 질문은 항상 의사 또는 자격을 갖춘 의료 제공자에게 상담하세요. 저희 콘텐츠는 의료 전문가의 검토를 거치지만 의료 서비스를 대체하기 위한 것이 아닌 정보 제공을 목적으로 합니다."
+  },
+  {
+    "id": "faq-7",
+    "category_en": "About K-HELP",
+    "category_ko": "K-HELP에 대해",
+    "question_en": "How can I volunteer with K-HELP?",
+    "question_ko": "K-HELP에서 봉사활동은 어떻게 하나요?",
+    "answer_en": "We welcome volunteers of all backgrounds! Whether you're a healthcare professional, translator, community organizer, or simply passionate about health education, we'd love to hear from you. Please use our Contact Us page to submit an inquiry and mention your interest in volunteering.",
+    "answer_ko": "모든 배경의 자원봉사자를 환영합니다! 의료 전문가, 번역가, 커뮤니티 조직자이든 단순히 건강 교육에 열정이 있든 여러분의 이야기를 듣고 싶습니다. 문의하기 페이지를 이용하여 봉사활동에 대한 관심을 언급해 주세요."
+  },
+  {
+    "id": "faq-8",
+    "category_en": "Events & Participation",
+    "category_ko": "행사 및 참여",
+    "question_en": "How can I attend K-HELP events?",
+    "question_ko": "K-HELP 행사에 어떻게 참여할 수 있나요?",
+    "answer_en": "Visit our Events page for a list of upcoming events. Most of our events are free and open to the public. Some workshops may have limited capacity, so we recommend checking the event details for any registration requirements.",
+    "answer_ko": "행사 페이지를 방문하여 다가오는 행사 목록을 확인하세요. 대부분의 행사는 무료이며 누구나 참여할 수 있습니다. 일부 워크숍은 인원이 제한될 수 있으므로 등록 요건에 대한 행사 세부 정보를 확인하시기 바랍니다."
+  },
+  {
+    "id": "faq-9",
+    "category_en": "Events & Participation",
+    "category_ko": "행사 및 참여",
+    "question_en": "Can my organization partner with K-HELP?",
+    "question_ko": "우리 단체가 K-HELP와 파트너십을 맺을 수 있나요?",
+    "answer_en": "Absolutely! We actively seek partnerships with healthcare organizations, community groups, government agencies, and other stakeholders. Please use the Contact Us page and select 'Organization Booking Inquiry' as the subject to start a conversation about potential collaboration.",
+    "answer_ko": "물론입니다! 의료 기관, 커뮤니티 단체, 정부 기관 및 기타 이해관계자와의 파트너십을 적극적으로 추구합니다. 문의하기 페이지에서 '단체 예약 문의'를 선택하여 잠재적 협업에 대한 대화를 시작해 주세요."
+  },
+  {
+    "id": "faq-10",
+    "category_en": "Events & Participation",
+    "category_ko": "행사 및 참여",
+    "question_en": "Are events conducted in Korean or English?",
+    "question_ko": "행사는 한국어로 진행되나요, 영어로 진행되나요?",
+    "answer_en": "Most of our events are conducted primarily in Korean, with some bilingual events. We strive to make our events accessible to all Korean Canadians, regardless of their English proficiency. Event listings specify which languages will be used.",
+    "answer_ko": "대부분의 행사는 주로 한국어로 진행되며, 일부 이중 언어 행사도 있습니다. 영어 능력에 관계없이 모든 한인 캐나다인이 참여할 수 있도록 노력하고 있습니다. 행사 안내에 사용 언어가 명시되어 있습니다."
+  }
+]

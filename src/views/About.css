@@ -1,0 +1,187 @@
+/* ============================
+   About Page — PRD Design System
+   ============================ */
+
+/* --- Page Hero --- */
+.about-hero {
+  background: var(--color-primary);
+  color: #FFFFFF;
+  padding: var(--space-7) 0 var(--space-6);
+  text-align: center;
+}
+
+.about-hero-inner {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  padding: 0 var(--space-3);
+}
+
+.about-hero-title {
+  font-size: var(--font-h1-size);
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-bottom: var(--space-2);
+  letter-spacing: -0.5px;
+}
+
+.about-hero-subtitle {
+  font-size: var(--font-nav-size);
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* --- Alternating Section Background --- */
+.section-alt {
+  background: #F5F5F5;
+}
+
+/* --- Section Description Text --- */
+.about-section-desc {
+  font-size: var(--font-body-size);
+  color: var(--color-text-light);
+  text-align: center;
+  max-width: var(--max-content-width);
+  margin: calc(-1 * var(--space-3)) auto var(--space-4);
+  line-height: 1.7;
+}
+
+/* --- Mission & Vision Grid --- */
+.about-mv-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-3);
+}
+
+.about-mv-card {
+  padding: var(--space-4);
+  text-align: center;
+  border-top: 4px solid var(--color-primary);
+}
+
+.about-mv-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: rgba(0, 48, 112, 0.08);
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-2);
+}
+
+.about-mv-card h2 {
+  color: var(--color-primary);
+  font-size: var(--font-h2-size);
+  margin-bottom: var(--space-2);
+}
+
+.about-mv-card p {
+  font-size: var(--font-body-size);
+  line-height: 1.7;
+  color: var(--color-text-light);
+}
+
+/* --- History Timeline --- */
+.about-history-timeline {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  position: relative;
+  padding-left: var(--space-5);
+}
+
+.about-history-timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 8px;
+  bottom: 8px;
+  width: 3px;
+  background: var(--color-primary);
+  border-radius: 2px;
+}
+
+.about-history-item {
+  position: relative;
+  margin-bottom: var(--space-3);
+}
+
+.about-history-item:last-child {
+  margin-bottom: 0;
+}
+
+.about-history-year {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: #FFFFFF;
+  font-size: var(--font-caption-size);
+  font-weight: 700;
+  padding: 4px 14px;
+  border-radius: 20px;
+  margin-bottom: var(--space-1);
+  position: relative;
+}
+
+.about-history-year::before {
+  content: '';
+  position: absolute;
+  left: calc(-1 * var(--space-5) + 12px);
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background: var(--color-surface);
+  border: 3px solid var(--color-primary);
+  border-radius: 50%;
+}
+
+.about-history-card {
+  padding: var(--space-3);
+}
+
+.about-history-card p {
+  font-size: var(--font-body-size);
+  line-height: 1.7;
+  color: var(--color-text);
+  margin-bottom: 0;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .about-hero {
+    padding: var(--space-6) 0 var(--space-5);
+  }
+
+  .about-hero-title {
+    font-size: var(--font-h1-size);
+  }
+
+  .about-hero-subtitle {
+    font-size: var(--font-caption-size);
+  }
+
+  .about-mv-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-history-timeline {
+    padding-left: var(--space-4);
+  }
+
+  .about-history-timeline::before {
+    left: 16px;
+  }
+
+  .about-history-year::before {
+    left: calc(-1 * var(--space-4) + 8px);
+  }
+
+  .about-section-desc {
+    font-size: var(--font-nav-size);
+    margin-bottom: var(--space-3);
+  }
+}

@@ -1,0 +1,112 @@
+/* === Upcoming Events Grid (Glass Cards) === */
+.events-grid-upcoming {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: var(--space-4);
+}
+
+.events-empty {
+  font-size: var(--font-body-size);
+  color: var(--color-text-light);
+  padding: var(--space-4);
+  text-align: center;
+  background: var(--color-surface);
+  border-radius: var(--card-radius);
+  border: 1px dashed var(--color-border);
+}
+
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.event-card {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  padding: var(--space-3);
+}
+
+.event-card .event-date-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: var(--button-radius);
+  padding: 10px 16px;
+  min-width: 72px;
+  flex-shrink: 0;
+}
+
+.event-card .event-date-badge.past {
+  background: var(--color-text-light);
+}
+
+.event-card .event-month {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.event-card .event-day {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.event-content {
+  flex: 1;
+}
+
+.event-title {
+  font-size: var(--font-h3-size);
+  margin-bottom: var(--space-1);
+}
+
+.event-desc {
+  font-size: var(--font-body-size);
+  color: var(--color-text-light);
+  margin-bottom: var(--space-1);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.event-location {
+  font-size: var(--font-caption-size);
+  color: var(--color-text-light);
+}
+
+.event-location-label {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.event-card-past {
+  opacity: 0.85;
+}
+
+@media (max-width: 600px) {
+  .events-grid-upcoming {
+    grid-template-columns: 1fr;
+  }
+
+  .event-card {
+    flex-direction: column;
+  }
+
+  .event-card .event-date-badge {
+    flex-direction: row;
+    gap: var(--space-1);
+    padding: 8px 16px;
+    min-width: auto;
+  }
+
+  .event-card .event-day {
+    font-size: 20px;
+  }
+}
